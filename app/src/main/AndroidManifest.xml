@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Sporwatch2">
         <activity
+            android:name=".obsud"
+            android:exported="true" />
+        <activity
             android:name=".menu"
             android:exported="true" />
         <activity
